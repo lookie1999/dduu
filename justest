@@ -1,0 +1,73 @@
+http://172.19.91.199:8000/admin/login
+
+a4b34bef484173fa47ddb342d5c5028a4cfc6875
+9e9e7b5b3220299355da66578ba59576371c9ac7
+d014f592d53d7b4aab30b8edfc6545e067201d0c
+c4307eba7375eb6b031c15a7e5d3e72d1890169a
+3019442b0a0d8c40a9c773caa5f6af07113e1f91
+
+github.saicsrctest.com
+tar -zxvf redis-6.2.1.tar.gz -C /usr/local
+
+428754065
+2305
+
+https://blog.csdn.net/qq_38543537/article/details/90899119
+
+https://github.com/VKSRC/Github-Monitor
+
+
+password
+mssql
+postgresql
+oracle
+redis
+mongodb
+ssh
+telnet
+access_token
+jdbc:
+
+http://:8000/admin/login
+https://github.com//compose//download/1.28.6/docker-compose-Linux-x86_64
+a4b34bef484173fa47ddb342d5c5028a4cfc6875
+9e9e7b5b3220299355da66578ba59576371c9ac7
+d014f592d53d7b4aab30b8edfc6545e067201d0c
+c4307eba7375eb6b031c15a7e5d3e72d1890169a
+3019442b0a0d8c40a9c773caa5f6af07113e1f91
+
+github.saicsrctest.com
+tar -zxvf redis-6.2.1.tar.gz -C /usr/local
+
+428754065
+2305
+python3 manage.py runserver 127.0.0.1:8001 &
+python3 manage.py monitor_task_service &
+npm run start &
+
+      - ./docker/data/redis/:/var/lib/redis/
+      - ./:/home/docker/Github-Monitor/
+
+
+root@ubuntu20:/home/docker/Github-Monitor# 
+
+上海汽车集团股份有限公司
+上汽通用汽车有限公司
+上汽通用五菱汽车股份有限公司
+
+
+/home/docker/Github-Monitor
+
+vipkid@2018
+docker exec -it bebb13f57b81 /bin/bash
+
+SELECT * FROM Leakage INTO OUTFILE '/tmp/runoob.txt' TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\r\n';
+
+
+select * into outfile '/tmp.xls' from Leakage;
+
+mysql -u root -p -e --default-character-set=utf8 "select * from Leakage.github" > c.xls
+
+load data local infile "f:/aa.csv" into table "tb_test" fields terminated by "," lines terminated by "\n";
+
+docker cp bebb13f57b81：/tmp/d:a.xls /tmp
